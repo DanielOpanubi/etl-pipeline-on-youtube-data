@@ -1,6 +1,9 @@
 # etl-pipeline-on-youtube-data
 Data pipeline to load, transform, store and visualize data in AWS infrastructure
 
+## Architecture Diagram
+![Youtube project](https://user-images.githubusercontent.com/99402393/212493704-d06e2feb-8b90-4e31-8bb1-72d74be22074.jpg)
+
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
 2. ETL System — We are getting data in raw format, transforming this data into the proper format
@@ -30,5 +33,3 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-## Architecture Diagram
-![Youtube project](https://user-images.githubusercontent.com/99402393/212493704-d06e2feb-8b90-4e31-8bb1-72d74be22074.jpg)
