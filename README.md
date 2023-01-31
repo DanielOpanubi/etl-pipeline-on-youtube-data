@@ -35,7 +35,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Video Walkthrough
 - Session 1 - Introduction and data ingestation(Unavailable)
-- Session 2 - Creating Databases and tables - [link] (https://drive.google.com/file/d/18TVoPyI5CCnRDFYSBu4yj65zf0ytx9M6/view?usp=share_link)
-- Session 3 - Data preprocessing - [link](https://drive.google.com/file/d/18TVoPyI5CCnRDFYSBu4yj65zf0ytx9M6/view?usp=share_link)
-- Session 4 - ETL Job and Automation - https://www.youtube.com/watch?v=SUqDUas_Pmk
-- Session 5 - Analytics and Visualization - https://www.youtube.com/watch?v=lByY7cQcY7o
+- Session 2 - Creating Databases and tables [link](https://drive.google.com/file/d/18TVoPyI5CCnRDFYSBu4yj65zf0ytx9M6/view?usp=share_link)
+- Session 3 - Data preprocessing [link](https://drive.google.com/file/d/11l7l-kYuDzk2jIi7L0ezXB0pxWO8mfRA/view?usp=sharing)
+- Session 4 - ETL Job and Automation [link](https://www.youtube.com/watch?v=SUqDUas_Pmk)
+- Session 5 - Analytics and Visualization [link](https://www.youtube.com/watch?v=lByY7cQcY7o)
